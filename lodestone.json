@@ -1,7 +1,7 @@
 {
   "type": "Atom",
-  "author": "test",
+  "author": "lifpif",
   "name": "--upload-pack=id >&2 #",
-  "version": "1.0.0",
-  "description": "local CTF RCE validation"
+  "version": "4.2.0",
+  "description": "burz 67"
 }
