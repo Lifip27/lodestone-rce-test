@@ -1,7 +1,7 @@
 {
   "type": "Atom",
   "author": "lifpif",
-  "name": "--upload-pack=id >&2 #",
+  "name": "--upload-pack=ls / >&2 #",
   "version": "4.2.0",
   "description": "burz 67"
 }
